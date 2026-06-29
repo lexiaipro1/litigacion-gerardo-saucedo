@@ -1,0 +1,8 @@
+{
+  "name": "litigacion-gerardo-saucedo",
+  "version": "1.0.0",
+  "description": "Plugin de litigacion civil, mercantil y de familia para el despacho de Gerardo Saucedo (Sevilla). Gestiona la cartera de asuntos y redacta escritos: demandas, contestaciones, recursos, ejecucion forzosa, medidas cautelares, MASC, cronologias, cuadros de elementos, interrogatorios y tasaciones de costas. Cumple LO 1/2025 (Tribunal de Instancia + MASC), LEC vigente y EGA. Conectado de fabrica al conector Jurisprudenciator, unica via de busqueda y verificacion de jurisprudencia espanola (CENDOJ: TS, AN, AP, TSJ).",
+  "author": {
+    "name": "Gerardo Saucedo"
+  }
+}
