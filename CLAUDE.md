@@ -57,7 +57,7 @@ Reclamaciones económicas · responsabilidad civil · reclamaciones mercantiles 
 
 | Herramienta | Uso |
 |---|---|
-| Dropbox | Documentación (uso manual; **sin conector** en este plugin) |
+| Dropbox | Documentación — **conector MCP activo** en este plugin (`https://mcp.dropbox.com/mcp`) |
 | Outlook | Correo |
 | LexNET | Solo recibir notificaciones |
 | Word | Redacción / entregables `.docx` |
