@@ -1,0 +1,13 @@
+{
+  "name": "litigacion-gerardo-saucedo",
+  "owner": {
+    "name": "Gerardo Saucedo"
+  },
+  "plugins": [
+    {
+      "name": "litigacion-gerardo-saucedo",
+      "source": "./",
+      "description": "Litigacion civil, mercantil y de familia (Sevilla). LO 1/2025, LEC vigente y EGA. 41 skills + conector Jurisprudenciator (CENDOJ: TS, AN, AP, TSJ)."
+    }
+  ]
+}
